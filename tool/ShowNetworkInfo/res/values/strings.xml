@@ -1,8 +1,0 @@
-<resources>
-
-    <string name="app_name">ShowNetworkInfo</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="menu_settings">Settings</string>
-    <string name="title_activity_show_network_info">ShowNetworkInfoActivity</string>
-
-</resources>
