@@ -5,10 +5,10 @@ Many parts or source codes comes from ADK 2011.
 ## Target board
 Arduino MEGA ADK
 
-## example
+## example/ directory
 Simple example for Android Open Accessary.
 
-## clavier_AOA
+## clavier_AOA/ directory
 Sample Android Open Accessory. See https://www.youtube.com/watch?v=LEQTXdOepis&feature=player_embedded to know how it works.
 
 # Author
